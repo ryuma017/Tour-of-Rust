@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "basic-control-flow",
+    "basic-data-structure-types",
+]
