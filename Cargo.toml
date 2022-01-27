@@ -4,4 +4,5 @@ members = [
     "c01-the-basics",
     "c02-basic-control-flow",
     "c03-basic-data-structure-types",
+    "c04-generic-types",
 ]
