@@ -9,9 +9,9 @@ struct SeaCreature {
 fn main() {
     let ferris = SeaCreature {
         animal_type: String::from("crab"),
-        name: String:: from("Ferris"),
+        name: String::from("Ferris"),
         arms: 2,
-        legs:  4,
+        legs: 4,
         weapon: String::from("claw"),
     };
 
@@ -20,7 +20,7 @@ fn main() {
         name: String::from("Sarah"),
         arms: 8,
         legs: 0,
-        weapon: String::from("brain")
+        weapon: String::from("brain"),
     };
 
     println!(
