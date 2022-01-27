@@ -1,3 +1,5 @@
+#![allow(clippy::needless_return)]
+
 fn swap(x: i32, y: i32) -> (i32, i32) {
     return (y, x);
 }

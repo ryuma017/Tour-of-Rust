@@ -1,3 +1,5 @@
+#![allow(clippy::comparison_chain)]
+
 fn main() {
     let x = 42;
     if x < 42 {

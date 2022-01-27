@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 struct SeaCreature {
     // String も構造体(struct)
     animal_type: String,
@@ -6,3 +8,5 @@ struct SeaCreature {
     legs: i32,
     weapon: String,
 }
+
+fn main() {}

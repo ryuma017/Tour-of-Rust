@@ -1,3 +1,6 @@
+#![allow(clippy::needless_return)]
+#![allow(clippy::unused_unit)]
+
 fn make_nothing() -> () {
     return ();
 }
