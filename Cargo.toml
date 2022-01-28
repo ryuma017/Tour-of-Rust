@@ -5,4 +5,5 @@ members = [
     "c02-basic-control-flow",
     "c03-basic-data-structure-types",
     "c04-generic-types",
+    "c05-ownership-and-borrowing-data"
 ]
